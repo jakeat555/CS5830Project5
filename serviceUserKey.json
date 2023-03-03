@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dataanalyticscs5850",
+  "private_key_id": "1fae011da812bbcf278ea0297c8546186b34c1b2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCpaL6oq8kBn3GB\n1CSVE3hqQYi+f7E7pyni/BaFeEqdhFjtC0oW4ZwQEFaU7OJxKtkQDQPAqw1ynKU3\nj9YmxJggWdm9UKb/LOSyKjH9Ao/Q/MbOFSeM3T1e7ITe6b5a8b5HXNW7zFuV5S/G\n6cgkpfJttJ7NVtUufKMdyr/Abf6vN2OpN89mXDdfc6KCiJwlc06qivsTqoqCP/Gd\nVoVsCDDC0jfItAYONMBC6Ap+qGmPp5t7CJHxpnj0AMn67VINJBSmTypRym32LL0q\nKt/uMgwVz7dwppRUf1v3A4O7m5ek1/5wK7r9tlmomgk4k8lYPZtb/sHuKZOKiFzI\nt7TX+wfDAgMBAAECggEAA5DgXoWLLB0SkxSHlpm70aTCf5wJe4N3xr7erH2NOIaW\nJpszuoqSMeZeJDFeTNqFiihz+UTAejag5awB6nv95cRuaGU/tqRXxgZMWhKJO3Fu\nr9zTIcxwY8SfwV9zMc/f3PmvyA2zqdKSsGGwZFEX6sZAB3t57koSVuizI5ZNI5wC\nmR8mp05IFNvmA2lt+HizEUZZFqnXeQqStKGDqbBrEYvXDl7z6n4WA63LRS7KYJY9\n+m2E+R+d5Q/wv30av4fjJhJLyM6q1deYWjW0OtnIz5HIQ+D07Kuq3xveSmNVTD1b\nFRhsVYWR4Jkq+bX7op0LFsPmhWMj57ok8OyIQTMQzQKBgQDQ2NjQERNMadDqBWyE\n0y+mIntYO8jgZVW9ml1c8xA2jB+eM21cajWKNT18DytLtHbjOrs4nCuX6kCHHZB3\nohlwZmgghaANneHauJWWZtDqjni9v+2D+OxsMeqTwtIOH4RnDKDSh3diRMdPB5mY\nl46qEKFePBPIA9CViBWI2CSFjwKBgQDPqG0kjIFadrTWfoMbVF3o7jxKyTvr0/m+\n4FKkrUkeUIJsoor+XZIvUtQKrpKh0on4DqlRyqdSHM2QojEbQFWUk4OY2zS99yg9\nIg3UPE/XsnfyDUiMq0LaeGkfzW7BvIGlmCblgL+uVc3LwCfezbu1qvAIbrERDGpF\nDy7N3r8IjQKBgFf43+tVJgHsGNpbCokwxEOBBt/13vnW9bT2TxmWMWAoyjDDjO9+\ntarQHmQhp6UuEV5KIQ8JibtmK2Q+6dna6EhWesooP3E87iRJ2IkQKjSDawzSyePr\nePtiU2OGjyDv2b/mq9/CvGEig6ogk2yZerjcZHzjZZm9MaGrPxbzpP61AoGBALjk\nTcltEP9rEjipDDMZO0RaWnR8GE4xvvyk3vChGalUJcx0LS2uQqrAJOwd45ER1KZ4\n52lb9v61hpJw1yhcb9aKQXGoO52oortLxuRhjvWOgh2SljYphqze6TrXvvXg0c6P\nWpKdwA2JeGMiBF3s8GUgffgEFsQHOdejXRkQaydBAoGAHfO524B89Lpj6CvQdskG\nQN+Dt65Dhw9VQnhLPWOzAeUBoIAF85st2kD/Uz2G9buxjZLYzhBiT9VRfw0OEt0H\nbzGcFOcMJ5zfeaE84NTVELDvbFkRWApUzoFu2a/Kcz6g5KEtV1KUhephPDnNPWwj\nJ+ot4e2+bnpGkFEs4TrbcqU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "userforbasketball@dataanalyticscs5850.iam.gserviceaccount.com",
+  "client_id": "105952886467626609819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/userforbasketball%40dataanalyticscs5850.iam.gserviceaccount.com"
+}
